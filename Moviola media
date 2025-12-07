@@ -1,0 +1,83 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MOVIOLA Media</title>
+<style>
+  body { font-family: Arial, sans-serif; margin:0; padding:0; line-height:1.6; background:#f4f4f4; }
+  header { background:#111; color:#fff; padding:20px 0; text-align:center; }
+  header h1 { margin:0; font-size:2em; }
+  nav { text-align:center; margin:10px 0; }
+  nav a { margin:0 15px; color:#fff; text-decoration:none; font-weight:bold; }
+  section { padding:40px 20px; max-width:900px; margin:auto; background:#fff; margin-bottom:20px; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.1);}
+  h2 { color:#111; }
+  .cta { display:inline-block; margin-top:15px; padding:10px 20px; background:#111; color:#fff; text-decoration:none; border-radius:5px; }
+  footer { text-align:center; padding:20px; background:#222; color:#fff; }
+  a.social { color:#111; text-decoration:none; margin:0 10px; font-weight:bold; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>MOVIOLA Media – Creative Commercial Ads & Events</h1>
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section id="intro">
+  <p>MOVIOLA Media delivers stunning commercial ads, professional photoshoots, and complete event documentation to make your brand unforgettable.</p>
+  <a href="#contact" class="cta">Contact Us / Book Your Project</a>
+</section>
+
+<section id="services">
+  <h2>Services</h2>
+  <ul>
+    <li><strong>Commercial Ads:</strong> Creative ads that capture attention.</li>
+    <li><strong>Photoshoots:</strong> Professional photography for brands and events.</li>
+    <li><strong>Event Documentation:</strong> Capturing every moment with quality visuals.</li>
+  </ul>
+</section>
+
+<section id="about">
+  <h2>About Us</h2>
+  <p>MOVIOLA Media is a creative agency dedicated to bringing your brand vision to life. We specialize in commercial ads, professional photoshoots, and documenting events with style and precision.</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Phone: +201023874746</p>
+  <p>
+    Instagram: <a class="social" href="https://www.instagram.com/moviola.rental.studios?igsh=MXRwdmkwNzdzdnByYg==" target="_blank">MOVIOLA Instagram</a><br>
+    Facebook: <a class="social" href="https://www.facebook.com/Moviola.Media.Agency" target="_blank">MOVIOLA Facebook</a>
+  </p>
+</section>
+
+<footer>
+  &copy; 2025 MOVIOLA Media. All rights reserved.
+</footer>
+
+</body>
+</html>
+
+
+---
+
+✅ Kifach tsta3mlha:
+
+1. Copy‑paste code f file .html.
+
+
+2. Open f browser, ghadi tban lik website simple.
+
+
+3. Ila bghiti tdkhlha f Google Sites:
+
+Create new site → Insert → Embed → Embed Code → paste code.
+
+
